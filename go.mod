@@ -1,4 +1,4 @@
-module github.com/syumai/workers/_templates/cloudflare/deploy-go
+module text-to-image-cloudflare-workers-ai-test
 
 go 1.23.0
 
